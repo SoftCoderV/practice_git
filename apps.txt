@@ -1,1 +1,1 @@
-game application added
+movies application created
